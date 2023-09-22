@@ -4,8 +4,14 @@ This is a really awesome website
 
 Updates made on main on GitHub before release
 
+<<<<<<< HEAD
 ## Repository Purpose
 
-This will be a change that conflicts
-with whatever is on the remote side.
-This was edited locally.
+
+
+
+=======
+## Purpose
+
+This file is just a readme file.
+>>>>>>> 078270485fe7be2f74f40da165a5a8c700145c4b
