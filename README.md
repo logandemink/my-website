@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-edit on example branch
-
-Updating locally
+Updates made on main on GitHub before release
