@@ -2,16 +2,15 @@
 
 This is a really awesome website
 
-Updates made on main on GitHub before release
-
-<<<<<<< HEAD
-## Repository Purpose
+Updates made on main on GitHub before rebase
 
 
-
-
-=======
-## Purpose
+ Repository Purpose
 
 This file is just a readme file.
->>>>>>> 078270485fe7be2f74f40da165a5a8c700145c4b
+
+
+## Purpose
+
+The purpose of this file is to provide examples
+on how to use Git and GitHub together.
